@@ -1,0 +1,20 @@
+{
+  "name": "mac-os-desktop",
+  "version": "1.0.0",
+  "description": "I am planing to make a mac OS simulator using HTML, CSS, and JavaScript 😀",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kerrybli/mac-os-desktop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://mac-os-desktop-anne-tech.vercel.app/"
+  },
+  "homepage": "https://mac-os-desktop-anne-tech.vercel.app/"
+}
